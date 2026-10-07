@@ -1,0 +1,6 @@
+{
+  "name": "Gotham Dispatch - Dinner with Siddhant",
+  "description": "A dark, atmospheric Gotham-themed dinner invitation for Siddhant Shetty at Sandeep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
